@@ -1,7 +1,6 @@
-# UnityTemplateRepository
-Unity Project template Repository
+# OpenAI Realtime API Unity Project
 
-# Demo
+OpenAIのRealtime APIをUnityで使うためのプロジェクトです。
 
 # requirements
-* Unity 2022.2.0f1
+* Unity 2022.3.42f1
