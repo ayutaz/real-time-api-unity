@@ -15,7 +15,7 @@
 
 # 概要
 
-Unity向けにライブラリを作っています → [UniRealtime](https://github.com/ayutaz/UniRealtime)
+このリポジトリをUnity向けに使いやすくしたライブラリを公開しています → [UniRealtime](https://github.com/ayutaz/UniRealtime)
 
 ## 目的
 Unityでマイクから音声入力を取得し、OpenAIのRealtime APIを介してAIとリアルタイムに音声対話を行い、そのレスポンスを音声で再生する。
